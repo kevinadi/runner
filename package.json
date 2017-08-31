@@ -51,6 +51,7 @@
     "mongodb": "^2.2.8",
     "mongodb-dbpath": "^0.0.1",
     "mongodb-tools": "mongodb-js/mongodb-tools",
+    "mongodb-topology-manager": "^1.0.13",
     "mongodb-version-manager": "^1.1.1",
     "untildify": "^3.0.0",
     "which": "^1.2.4"
